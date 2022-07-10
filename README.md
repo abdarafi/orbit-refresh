@@ -4,7 +4,7 @@
 A python script to refresh the network mode of Huawei HILINK router or MIFI. Why? In a rare condition, you might be lost your Cell ID, thus it needs to be refreshed.
 
 ## Usage
-``bash
+```bash
 # Install the required libraries
 pip install -r requirements.txt
 
