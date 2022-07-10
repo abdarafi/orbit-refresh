@@ -14,7 +14,7 @@ pip install -r requirements.txt
 3. YOUR_HUAWEI_IP (Ex: 192.168.8.1 Default)
 
 # Run the script
-python refresh.py
+python refresher.py
 ```
 
 Tested on Huawei B312, B818.
